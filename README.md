@@ -40,6 +40,38 @@ npm install
 npm run dev
 ```
 
+## File Architecture
+```bash
+.
+├── node_modules/
+├── public/
+├── src/
+│   ├── assets/
+│   │   ├── crystal.jpg
+│   │   └── react.svg
+│   ├── components/
+│   │   └── HistoricCharts.jsx
+│   ├── Hooks/
+│   │   ├── useMarketData.js
+│   │   └── usePriceData.js
+│   ├── redux/
+│   │   └── Slices/
+│   │       ├── dataSlice.js
+│   │       └── store.js
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+├── tailwind.config.js
+└── vite.config.js
+```
+
 ## Acknowledgments
 
 - Vite + React.js team for the amazing library
