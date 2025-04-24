@@ -4,6 +4,9 @@ A React App which shows you the real time crypto prices and more information.
 
 ![Screen Recording 2025-04-24 232957](https://github.com/user-attachments/assets/8f88d3f3-1999-4505-9a91-7322473b076a)
 
+### Full Overview of the app :
+[![Watch the video](https://www.pngmart.com/files/20/Youtube-Logo-PNG-Transparent-Picture-200x200.png)](https://youtu.be/EzBv2Ydmm98)
+
 ## Project Overview
 
 This system shows you the real time crypto information using websockets.
