@@ -1,12 +1,51 @@
-# React + Vite
+# Coin Hunt - Real-Time Crypto Price Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React App which shows you the real time crypto prices and more information.
 
-Currently, two official plugins are available:
+![Screen Recording 2025-04-24 232957](https://github.com/user-attachments/assets/8f88d3f3-1999-4505-9a91-7322473b076a)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Overview
 
-## Expanding the ESLint configuration
+This system shows you the real time crypto information using websockets.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+- Real time crypto price
+- Historic data representation using graph
+- Responsive design
+
+## Technology Stack
+
+- **Main Stack**: Vite + React
+- **State Management**: React Hooks
+- **Styling**: CSS Modules
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/RohitVerma2003/Coin-Hunt.git
+cd Coin-Hunt
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+## Acknowledgments
+
+- Vite + React.js team for the amazing library
+- All contributors and maintainers
+
+## Support
+
+For support, please create an issue in the repository or contact [RohitVerma2003](https://github.com/RohitVerma2003).
+
+---
+
+Built with ❤️ by [RohitVerma2003](https://github.com/RohitVerma2003)
