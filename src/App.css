@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body{
+    background-color: #1e2939;
+    background: linear-gradient(0deg , #1e2939cf) , url(./assets/crystal.jpg);
+    background-size: cover;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
